@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f67ad0-3f36-47bc-a0f8-cfd4bddd5ea8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CheckIfPalindrome.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CountVowels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CountWordsInString.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CheckIfPalindrome.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CheckIfPalindrome.py">
+      <file leaf-file-name="CountWordsInString.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CountWordsInString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -44,6 +43,7 @@
         <option value="$PROJECT_DIR$/ReverseString.py" />
         <option value="$PROJECT_DIR$/CountVowels.py" />
         <option value="$PROJECT_DIR$/CheckIfPalindrome.py" />
+        <option value="$PROJECT_DIR$/CountWordsInString.py" />
       </list>
     </option>
   </component>
@@ -100,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CheckIfPalindrome">
+  <component name="RunManager" selected="Python.CountWordsInString">
     <configuration name="CheckIfPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,6 +137,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="CountWordsInString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonSimpleProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CountWordsInString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,16 +173,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.ReverseString" />
       <item index="1" class="java.lang.String" itemvalue="Python.CountVowels" />
       <item index="2" class="java.lang.String" itemvalue="Python.CheckIfPalindrome" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CountWordsInString" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.CheckIfPalindrome" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CountVowels" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ReverseString" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.CountWordsInString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CheckIfPalindrome" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CountVowels" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +219,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -232,6 +252,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CountWordsInString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
